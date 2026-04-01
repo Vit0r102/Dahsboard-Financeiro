@@ -159,7 +159,7 @@ function Login() {
             <div style={{ width: 36, height: 36, borderRadius: 10, background: "linear-gradient(135deg,#3b82f6,#8b5cf6)", display: "flex", alignItems: "center", justifyContent: "center" }}>
               <Icon name="wallet" size={18} color="#fff" />
             </div>
-            <span style={{ fontSize: 22, fontWeight: 700, color: theme.text, letterSpacing: "-0.5px" }}>Apex Finance</span>
+            <span style={{ fontSize: 22, fontWeight: 700, color: theme.text, letterSpacing: "-0.5px" }}>Finance</span>
           </div>
           <p style={{ color: theme.textMuted, fontSize: 14, margin: 0 }}>Controle financeiro premium</p>
         </div>
